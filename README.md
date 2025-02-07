@@ -4,9 +4,4 @@ A proposta do sistema é um dispositivo IoT de baixo custo, utilizando a Raspber
 
 # Esquemático
 
-https://wokwi.com/projects/421427572385355777
-
-# Todo
-
-- Servidor
-- Aplicativo
+https://wokwi.com/projects/422247548140152833

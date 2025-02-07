@@ -43,6 +43,10 @@
     "timer.h": "c",
     "pll.h": "c",
     "ssd1306.h": "c",
-    "stdlib.h": "c"
+    "stdlib.h": "c",
+    "pwm.h": "c",
+    "netdb.h": "c",
+    "functional": "c",
+    "cyw43_driver.h": "c"
   }
 }

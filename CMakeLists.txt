@@ -59,8 +59,8 @@ target_link_libraries(EcoRepel
         hardware_adc
         hardware_i2c
         hardware_timer
-        hardware_clocks
         hardware_irq
+        pico_cyw43_arch_lwip_threadsafe_background
         )
 
 pico_add_extra_outputs(EcoRepel)
